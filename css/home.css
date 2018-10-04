@@ -33,7 +33,7 @@ body {
 }
 
 .homepage .text {
-	width: 50%;
+	width: 100%;
 	margin: 30px auto 0px;
 	color:white;
 	text-align: center;
@@ -47,7 +47,7 @@ body {
 
 .homepage .footer {
 	width: 45px;
-	margin: 55px auto 0;
+	margin: 40px auto 0;
 	color:white;
 }
 
