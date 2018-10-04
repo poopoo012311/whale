@@ -46,8 +46,9 @@ body {
 }
 
 .homepage .footer {
-	width: 45px;
-	margin: 40px auto 0;
+	width: 100%;
+	text-align: center;
+	margin: 50px auto 0;
 	color:white;
 }
 
