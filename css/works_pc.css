@@ -1,0 +1,51 @@
+.fixed {
+    width: 7vw;
+    margin: 30px 0px 0px 30px;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.fixed .positioning {
+    text-align: center;
+    font-size: 1.3em;
+    font-weight: bold;
+}
+
+.fixed .positioning span {
+    text-decoration: none;
+    color: black;
+    padding: 5px 0px 5px 0px;
+    display: block;
+    cursor: pointer;
+}
+
+.workspage {
+    width: 100%;
+}
+
+.workspage .killer_whale {
+    width: 100%;
+}
+
+.workspage .text {
+    width: 65vw;
+    font-size: 1.4em;
+    padding: 10px 0px 20px;
+    margin: 0px auto 0px;
+}
+
+.workspage .sperm_whale {
+    width: 100%;
+}
+
+
+.workspage img {
+    width: 100%;
+    position: relative;
+    z-index: 10;
+}
+
+img {
+    width: 100%;
+}

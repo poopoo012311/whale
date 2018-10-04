@@ -1,0 +1,56 @@
+@import url(https://fonts.googleapis.com/earlyaccess/cwtexfangsong.css);
+* {
+	box-sizing: border-box;
+	border: 0;
+	padding: 0;
+	margin: 0;
+}
+body {
+	font-family: 'cwTeXFangSong', serif;
+	background-image: url("../whale/whale.jpg");
+	height:100vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.homepage {
+	width: 100%;
+	padding-top: 100px;
+}
+
+.homepage .whale {
+	width: 100px;
+	height: 100px;
+	margin: auto;
+}
+
+.homepage .fish {
+	width: 100px;
+	height: 100px;
+	margin: auto;
+	transform: translateY(-20px);
+}
+
+.homepage .text {
+	width: 50%;
+	margin: 30px auto 0px;
+	color:white;
+	text-align: center;
+	font-size: 1.5em; 
+}
+
+.homepage .footer a{
+	text-decoration:none;
+	color:white;
+}
+
+.homepage .footer {
+	width: 45px;
+	margin: 55px auto 0;
+	color:white;
+}
+
+img {
+	width: 100%;
+}
